@@ -1,6 +1,6 @@
 # Testes de QA — Regin 2.0
 
-Repositório com os cenários de teste (em Gherkin, pt-BR) usados na validação do sistema **Regin 2.0** — integração entre a JUCESC (Junta Comercial de Santa Catarina) e o sistema municipal e-Publica, responsável por processar eventos de abertura, alteração e baixa de empresas.
+Repositório com os cenários de teste usados na validação do sistema **Regin 2.0** — integração entre a JUCESC (Junta Comercial de Santa Catarina) e o sistema municipal e-Publica, responsável por processar eventos de abertura, alteração e baixa de empresas.
 
 > ⚠️ Todos os dados usados nos exemplos (CNPJ, razão social, endereços, protocolos) são **fictícios**, gerados apenas para fins de teste. Nenhum dado real de contribuinte, empresa ou órgão público é utilizado neste repositório.
 
@@ -10,7 +10,7 @@ Os testes são feitos via **API (Postman)**: simula-se o envio de um protocolo d
 
 1. Se os dados foram criados/alterados corretamente no e-Publica
 2. Se o **evento** correto foi processado (cada evento representa uma ação: inclusão, alteração de endereço, alteração de sócios, baixa, etc.)
-3. Se **alvará** e **taxa** foram gerados de acordo com o nível de risco do protocolo
+3. Se **alvará** e **taxa** foram gerados de acordo com o evento e nível de risco do protocolo
 
 ## Classificação de risco
 
