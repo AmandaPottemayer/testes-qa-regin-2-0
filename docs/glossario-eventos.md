@@ -74,7 +74,7 @@ Tabela de referência rápida: código do evento → o que ele faz → em qual a
 | 410 | Baixa de econômico (com sócios) | `features/situacoes-especiais/baixa-economico.feature` |
 | 517 | Cancelamento de alvará + baixa de econômico | `features/situacoes-especiais/baixa-economico.feature` |
 
-## Alvará e Taxa Diversa
+## Alvara e Taxa Diversa
 
 | Assunto | Descrição | Arquivo |
 |---|---|---|
