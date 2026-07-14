@@ -74,7 +74,7 @@ Tabela de referência rápida: código do evento → o que ele faz → em qual a
 | 410 | Baixa de econômico (com sócios) | `features/situacoes-especiais/baixa-economico.feature` |
 | 517 | Cancelamento de alvará + baixa de econômico | `features/situacoes-especiais/baixa-economico.feature` |
 
-## Alvara e Taxa Diversa
+## Alvará e taxa
 
 | Assunto | Descrição | Arquivo |
 |---|---|---|
@@ -82,7 +82,7 @@ Tabela de referência rápida: código do evento → o que ele faz → em qual a
 | Aprovação | Alvará tipo 16 gerado após análise manual (risco 15 sem autodeclaratório / risco 20) | `features/alvara-taxa/aprovacao-risco-medio-alto.feature` |
 | Taxa diversa | Geração de taxa TLL na inclusão e em alterações de endereço | `features/alvara-taxa/geracao-taxa-diversa.feature` |
 
-## Validação
+## Validação de payload
 
 | Assunto | Descrição | Arquivo |
 |---|---|---|

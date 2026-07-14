@@ -1,6 +1,6 @@
 # Testes de QA — Regin 2.0
 
-Repositório com os cenários de teste usados na validação do sistema **Regin 2.0** — integração entre a JUCESC (Junta Comercial de Santa Catarina) e o sistema municipal e-Publica, responsável por processar eventos de abertura, alteração e baixa de empresas.
+Repositório com os cenários de teste (em Gherkin, pt-BR) usados na validação do sistema **Regin 2.0** — integração entre a JUCESC (Junta Comercial de Santa Catarina) e o sistema municipal e-Publica, responsável por processar eventos de abertura, alteração e baixa de empresas.
 
 > ⚠️ Todos os dados usados nos exemplos (CNPJ, razão social, endereços, protocolos) são **fictícios**, gerados apenas para fins de teste. Nenhum dado real de contribuinte, empresa ou órgão público é utilizado neste repositório.
 
@@ -39,6 +39,7 @@ docs/
 
 ## Convenções
 
+- Arquivos `.feature` em Gherkin, idioma português (`# language: pt`)
 - Tags usadas para filtrar cenários:
   - Risco: `@risco-baixo`, `@risco-medio`, `@risco-alto`
   - Tipo de operação: `@inclusao`, `@alteracao`
