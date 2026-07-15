@@ -1,6 +1,5 @@
 # language: pt
 Funcionalidade: Aprovação de alvará - Risco médio sem autodeclaratório e risco alto
-  Como sistema Regin 2.0
   Quero processar a aprovação manual de protocolos com risco 15 ou 20
   Para gerar o alvará somente após a análise do órgão responsável
 
