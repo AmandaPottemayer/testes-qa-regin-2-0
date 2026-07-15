@@ -48,3 +48,9 @@ docs/
 ## Autoria
 
 Cenários elaborados como parte da atividade de QA na validação do Regin 2.0 para o município de Joinville/SC.
+
+## Sobre a elaboração deste projeto
+
+ Os cenários de teste deste repositório foram elaborados com apoio de IA (Claude, da Anthropic) para estruturação e escrita dos arquivos `.feature`, a partir da análise das regras de negócio reais do sistema Regin 2.0 (rotinas Groovy de processamento de eventos, geração de alvará/taxa e validação de payload).
+
+ O Regin 2.0 é uma integração extensa, com mais de 40 eventos e múltiplas regras condicionais (risco, enquadramento, localização). A IA foi utilizada para acelerar a organização e documentação desses cenários em um volume grande de forma consistente; a definição do escopo, a categorização dos testes, a validação da lógica de negócio e a revisão técnica foram de responsabilidade minha, como Analista de Qualidade responsável pela validação do sistema.
