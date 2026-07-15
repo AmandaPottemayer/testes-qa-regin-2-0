@@ -1,6 +1,5 @@
 # language: pt
 Funcionalidade: Geração de taxa diversa (TLL)
-  Como sistema Regin 2.0
   Quero gerar a taxa diversa (TLL) nos casos previstos
   Para cobrar corretamente pelo serviço público prestado
 
