@@ -1,4 +1,4 @@
-# Glossário de Eventos — Regin 2.0
+# Eventos — Regin 2.0
 
 Tabela de referência rápida: código do evento → o que ele faz → em qual arquivo de teste está coberto.
 
