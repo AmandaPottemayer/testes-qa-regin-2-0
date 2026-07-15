@@ -1,6 +1,5 @@
 # language: pt
 Funcionalidade: Geração de alvará no retorno inicial - Risco baixo e médio autodeclaratório
-  Como sistema Regin 2.0
   Quero gerar o alvará automaticamente para riscos baixo e médio autodeclaratório
   Para que a empresa já receba a licença sem depender de análise manual
 
