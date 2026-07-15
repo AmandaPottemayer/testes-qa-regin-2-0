@@ -39,7 +39,6 @@ docs/
 
 ## Convenções
 
-- Arquivos `.feature` em Gherkin, idioma português (`# language: pt`)
 - Tags usadas para filtrar cenários:
   - Risco: `@risco-baixo`, `@risco-medio`, `@risco-alto`
   - Tipo de operação: `@inclusao`, `@alteracao`
